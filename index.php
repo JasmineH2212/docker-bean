@@ -13,7 +13,7 @@
     // Example of a PHP variable and conditional statement
     $name = "Jasmine";
     if ($name == "Jasmine") {
-        echo "<p>Welcome, $name!</p>";
+        echo "<p>Welcome to the page, $name!</p>";
     } else {
         echo "<p>Hello, guest!</p>";
     }
