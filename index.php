@@ -5,7 +5,7 @@
     <title>Basic PHP Page</title>
 </head>
 <body>
-    <h1>hello team.</h1>
+    <h1>hello devteam.</h1>
 
     <p>Current server time: <?php echo date('Y-m-d H:i:s'); ?></p>
 
