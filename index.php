@@ -5,7 +5,7 @@
     <title>Basic PHP Page</title>
 </head>
 <body>
-    <h1>Hello, This is my first php page.</h1>
+    <h1>Hello Friends, This is my first php page.</h1>
 
     <p>Current server time: <?php echo date('Y-m-d H:i:s'); ?></p>
 
